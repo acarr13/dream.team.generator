@@ -25,7 +25,7 @@ This is an application where the user inputs information to add employees into t
 A professional team profile generator using the command line prompts.
 
 ## Walkthrough
-[Link to Video](https://drive.google.com/file/d/1iG3_J-Zpq9kd163PdK_pYrPaTYhIYp0R/view?usp=sharing)
+[Link to Video](https://drive.google.com/file/d/1jzUHNdy_VaUoZEuBTc82FbbXsBnvU3rw/view?usp=sharing)
 
 ## Screenshot
 ![screenshot](img/demoweb.png)
