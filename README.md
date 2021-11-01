@@ -17,7 +17,6 @@ SO THAT I have quick access to their emails and GitHub profiles
 - [Usage](#Usage)
 - [Walkthrough](#Walkthrough)
 - [Screenshot](#Screenshot)
-- [License](#License)
 
 ## Description
 This is an application where the user inputs information to add employees into the team profile using prompts on the command line. This program was created using test driven development to test the js class functions. Once the command line prompts are completed, an html file is created with a team profile website.
